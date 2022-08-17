@@ -2,7 +2,7 @@
 draft: false
 title: "Websockets + Python + Redis"
 date: "2022-08-14T19:56:44+10:00"
-tags: ["websocket", "python", "wsgi", "asgi", "asynchronous", "redis"]
+tags: ["websocket", "python", "wsgi", "asgi", "async", "redis"]
 showFullContent: false
 hideComments: false
 ---
